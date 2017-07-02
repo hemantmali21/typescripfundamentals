@@ -7,4 +7,4 @@
     "args": ["-w","-p", "."],
     "showOutput": "always",
     "problemMatcher": "$tsc"
-}
+} 

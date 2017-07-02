@@ -4,4 +4,4 @@ interface IUserInfo {
 }
 
 
-export {IUserInfo}
+export {IUserInfo}  

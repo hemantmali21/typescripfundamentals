@@ -14,5 +14,5 @@
                 "${workspaceRoot}/out/**/*.js"
             ]
         }
-    ]
+    ] 
 }

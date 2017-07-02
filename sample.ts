@@ -40,4 +40,4 @@ function getUserListG(userdata:Array<IUserInfo>){
      });   
 }    
 
-getUserListG(userListG);
+getUserListG(userListG); 
